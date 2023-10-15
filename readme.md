@@ -16,3 +16,4 @@ The BiCG method has several advantages that make it a valuable tool in scientifi
 ## Convergence Graph
 
 The following plot represents the log-scaled error norm of the residual vector with respect to the iterations:
+![](https://raw.githubusercontent.com/lollerfirst/biconjugate-gradient-method/main/Screenshot%20from%202023-10-14%2021-11-48.png?token=GHSAT0AAAAAACH6LNWB35ENJTYLIG3S52YEZJLUCNQ)
